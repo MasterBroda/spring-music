@@ -3,5 +3,5 @@ applications:
 - name: spring-music
   memory: 1G
   random-route: true
-  path: build/libs/spring-music-1.0.jar
+  path: build/libs/spring-music_master-6Y65X3EAQTYQ2OLELDU54VZR534VN2BCVI4OJDBEL2FQFCMUBKQQ-1.0.jar
 
